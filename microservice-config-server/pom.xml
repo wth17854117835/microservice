@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>microservice-config-server</artifactId>
+    <name>配置中心</name>
 
     <dependencies>
 
